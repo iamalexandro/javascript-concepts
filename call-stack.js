@@ -1,5 +1,7 @@
 const cortar = (ingrediente) => {
   console.log("Cortar " + ingrediente);
+  // tambien lo puedes hacer asi 
+  console.log(`Cortar ${ingrediente}`)
 };
 
 const mezclarIngredientes = (n) => {
