@@ -1,3 +1,3 @@
 # Javascript Concepts
 
-## 1. Call Stack
+_1. Call Stack_
